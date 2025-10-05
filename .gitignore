@@ -1,0 +1,23 @@
+# Unreal Engine generated files and directories
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.suo
+
+# Ignore all content in Content directory
+Content/*
+
+# To include specific subdirectories in Content, uncomment and modify the lines below:
+# !Content/SomeSubDir/
+# !Content/AnotherSubDir/
+
+!Content/Maps/
+!Content/Crowd/
+!Content/MoveDemo/
