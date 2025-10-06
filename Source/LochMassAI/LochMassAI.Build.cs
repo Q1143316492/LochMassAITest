@@ -24,7 +24,11 @@ public class LochMassAI : ModuleRules
 			"MassMovement",
 			"MassNavigation",
 			"NavigationSystem",
-			"MassRepresentation"
+			"MassRepresentation",
+			
+			"GameplayBehaviorSmartObjectsModule",
+			"SmartObjectsModule",
+			"GameplayTags"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
